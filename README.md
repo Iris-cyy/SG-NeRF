@@ -7,10 +7,10 @@ The data is organized as follows:
 
 ```
 <case_name>
-|-- cameras_sphere.npz	# camera parameters
+|-- cameras_sphere.npz	    	# camera parameters
 |-- database.db			# colmap database
-|-- train
-	|-- 000.png			# input images from each view 
+|-- train			# input images from each view 
+	|-- 000.png
 	|-- 001.png
 	...
 ```
