@@ -1,4 +1,5 @@
 # SG-NeRF
+This is the official implement of ECCV 2024 paper "SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization".
 
 ## Data Convention
 
