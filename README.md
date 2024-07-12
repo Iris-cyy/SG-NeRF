@@ -1,10 +1,10 @@
 # SG-NeRF
-[data](https://drive.google.com/file/d/1vd-pxbIZ_Y7tpHupaitDR7rbJjUHWwcg/view?usp=sharing)
+
 This is the official implement of ECCV 2024 paper "SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization".
 
 ## Data Convention
 
-The data is organized as follows:
+The [data](https://drive.google.com/file/d/1vd-pxbIZ_Y7tpHupaitDR7rbJjUHWwcg/view?usp=sharing) is organized as follows:
 
 ```
 <case_name>
